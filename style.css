@@ -24,7 +24,11 @@ h1{
 font-size: 5em;
 }
 div{
+    
     -webkit-box-shadow: 0px 6px 12px 11px rgba(0,0,0,0.47); 
 box-shadow: 0px 6px 12px 11px rgba(0,0,0,0.47);
 background-size: 50em;
+
+
+border-radius: 50px;
 }
